@@ -1,3 +1,5 @@
+import {findSubstitution} from './substitutions.js';
+
 export const BASICS = ['salt', 'sugar', 'neutral-oil', 'black-pepper'];
 export const SPICES = ['turmeric', 'cumin', 'coriander-powder', 'garam-masala', 'rajma-masala', 'chaat-masala', 'chilli-powder'];
 export const STAPLES = [...BASICS, ...SPICES];
@@ -23,10 +25,21 @@ export function availableIds(state) { return new Set([...state.selected, ...stat
 export function matchDetails(recipe, state) {
   const available = availableIds(state);
   const have = recipe.needed.filter(id => available.has(id));
-  const missing = recipe.needed.filter(id => !available.has(id));
-  const coverage = recipe.needed.length ? have.length / recipe.needed.length : 0;
-  // A missing item must never round up to a misleading 100% badge.
-  return {have, missing, coverage, percent: missing.length ? Math.min(99, Math.round(coverage * 100)) : 100};
+  const substitutions = [];
+  const missing = [];
+  for (const id of recipe.needed) {
+    if (available.has(id)) continue;
+    const swap = findSubstitution(recipe, id, available);
+    if (swap) substitutions.push(swap);
+    else missing.push(id);
+  }
+  const covered = have.length + substitutions.length;
+  const coverage = recipe.needed.length ? covered / recipe.needed.length : 0;
+  const ready = recipe.needed.length > 0 && missing.length === 0;
+  const exact = ready && substitutions.length === 0;
+  // A genuinely missing item must never round up to a 100% badge.
+  return {have, missing, substitutions, covered, coverage, ready, exact,
+    percent: ready ? 100 : Math.min(99, Math.round(coverage * 100))};
 }
 export function timeBucket(minutes) { return minutes <= 15 ? 15 : minutes <= 30 ? 30 : 45; }
 export function cuisineId(name) { return name === 'Healthy-ish' ? 'healthy' : name.toLowerCase().replaceAll(' ', '-'); }
@@ -38,8 +51,9 @@ export function preferenceScore(recipe, state) {
   return Number(cuisineMatch) * 4 + Number(timeMatch) * 3 + Number(batchMatch);
 }
 export function rankRecipes(recipes, state) {
-  const ranked = recipes.map(recipe => ({recipe, coverage: matchDetails(recipe, state).coverage, preference: preferenceScore(recipe, state)}));
-  ranked.sort((a, b) => b.coverage - a.coverage ||
+  const ranked = recipes.map(recipe => ({recipe, match: matchDetails(recipe, state), preference: preferenceScore(recipe, state)}));
+  ranked.sort((a, b) => b.match.coverage - a.match.coverage ||
+    a.match.substitutions.length - b.match.substitutions.length ||
     Number(a.recipe.difficulty !== 'Easy') - Number(b.recipe.difficulty !== 'Easy') ||
     b.preference - a.preference || a.recipe.time - b.recipe.time ||
     a.recipe.needed.length - b.recipe.needed.length || a.recipe.name.localeCompare(b.recipe.name));
@@ -48,7 +62,10 @@ export function rankRecipes(recipes, state) {
 export function summarizePlan(recipes, state) {
   const meals = rankRecipes(recipes, state);
   const available = availableIds(state);
-  const used = new Set(meals.flatMap(r => r.needed).filter(id => available.has(id)));
+  const matches = meals.map(r => matchDetails(r, state));
+  const used = new Set(matches.flatMap(m => [...m.have, ...m.substitutions.map(s => s.replacement)]));
   return {meals, usedCount: used.size, score: available.size ? Math.round(used.size / available.size * 100) : 0,
-    complete: meals.filter(r => matchDetails(r, state).missing.length === 0).length};
+    complete: matches.filter(m => m.ready).length,
+    exact: matches.filter(m => m.exact).length,
+    withSubstitutions: matches.filter(m => m.ready && !m.exact).length};
 }

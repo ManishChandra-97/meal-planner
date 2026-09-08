@@ -104,8 +104,9 @@ test('every recipe is an exact match after saving all its ingredients, including
    assert.ok(ranked.slice(0,target).every(m=>matchDetails(m,s).percent===100),r.id);
    for(const id of r.needed){
     const missingOne={...s,selected:s.selected.filter(x=>x!==id),staples:s.staples.filter(x=>x!==id)};
-    assert.deepEqual(matchDetails(r,missingOne).missing,[id],`${r.id}: ${id}`);
-    assert.ok(matchDetails(r,missingOne).percent<100);
+    const match=matchDetails(r,missingOne);
+    assert.equal(match.exact,false,`${r.id}: ${id} cannot be an exact match`);
+    assert.ok(match.missing.includes(id) || match.substitutions.some(s=>s.required===id),`${r.id}: ${id} must be missing or explicitly substituted`);
    }
   }
  }
