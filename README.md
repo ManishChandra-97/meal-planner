@@ -9,11 +9,11 @@ npm test
 npm run build
 ```
 
-The kitchen has individual basics/spice switches and a separate searchable ingredient picker. Cuisines, time bands and planning horizons support unlimited selections. Time bands are up to 15, 16–30, and over 30 minutes. An empty preference means any option. Planning horizons are preference tags and give batch-friendly dishes a ranking nudge; they do not imply storage life or allocate a calendar.
+The kitchen has individual basics/spice switches and a searchable ingredient picker that also includes basics and spices. Both controls share one selection; the kitchen tray shows every selected item. Cuisines, time bands and planning horizons support unlimited selections. Time bands are up to 15, 16–30, and over 30 minutes. An empty preference means any option. Planning horizons are preference tags and give batch-friendly dishes a ranking nudge; they do not imply storage life or allocate a calendar.
 
-Recommendations include every database recipe, ordered by exact ingredient coverage, difficulty, preferences, time and ingredient count. A missing staple always counts as missing. Water is a preparation instruction, not an assumed pantry match. Main ingredient lists do not repeat available basics and spices; their quantities are accessible in a separate disclosure. Servings scale quantities. Cooked rice and cooked chickpeas are explicit ingredients so a quick recipe cannot silently assume preparation has already happened.
+Recommendations include every database recipe, ordered by exact ingredient coverage, difficulty, preferences, time and ingredient count. Exact matches have their own results section. The results page identifies recipes blocked only by cupboard items and lets users confirm individual basics and spices without leaving the page. A missing staple always counts as missing. Water is a preparation instruction, not an assumed pantry match. Main ingredient lists do not repeat available basics and spices; their quantities are accessible in a separate disclosure. Servings scale quantities. Cooked rice and cooked chickpeas are explicit ingredients so a quick recipe cannot silently assume preparation has already happened.
 
-Legacy `mealmint-pantry-v1` data migrates to v2. The old basics switch enables salt, pepper and cooking oil, but never assumes the newly added sugar is available. Invalid saved values are discarded.
+Legacy `mealmint-pantry-v1` data migrates to v2. The old basics switch enables salt, pepper and cooking oil, but never assumes the newly added sugar is available. Invalid saved values are discarded. Staples stored in the general ingredient list are merged into staple selections, including when a saved staples array is present.
 
 ## Recipe provenance and refresh
 

@@ -12,7 +12,7 @@ export function normalizeState(saved, ingredientIds, cuisineIds) {
   const legacyBasics = value.basics === true ? ['salt', 'black-pepper', 'neutral-oil'] : [];
   return {...defaults(),
     selected: selected.filter(id => !STAPLES.includes(id) && id !== 'water'),
-    staples: valid(Array.isArray(value.staples) ? value.staples : [...selected.filter(id => STAPLES.includes(id)), ...legacyBasics], STAPLES),
+    staples: valid([...selected.filter(id => STAPLES.includes(id)), ...(Array.isArray(value.staples) ? value.staples : legacyBasics)], STAPLES),
     cuisine: valid(value.cuisine, cuisineIds),
     times: valid(value.times ?? (value.time ? [value.time] : [30]), TIME_OPTIONS.map(x => x[0])),
     lengths: valid(value.lengths ?? (value.length ? [value.length] : ['today']), PLAN_OPTIONS.map(x => x[0])),
@@ -49,6 +49,6 @@ export function summarizePlan(recipes, state) {
   const meals = rankRecipes(recipes, state);
   const available = availableIds(state);
   const used = new Set(meals.flatMap(r => r.needed).filter(id => available.has(id)));
-  return {meals, score: available.size ? Math.round(used.size / available.size * 100) : 0,
+  return {meals, usedCount: used.size, score: available.size ? Math.round(used.size / available.size * 100) : 0,
     complete: meals.filter(r => matchDetails(r, state).missing.length === 0).length};
 }

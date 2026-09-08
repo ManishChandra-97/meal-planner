@@ -79,3 +79,47 @@ test('every selectable cuisine has a sourced recipe',()=>{
  const state={...kitchen(),cuisine:['healthy'],times:[]};
  assert.equal(preferenceScore(recipe('quinoa-peanut-salad'),state),7);
 });
+
+test('saved kitchens preserve staples selected through either ingredient field',()=>{
+ const s=normalizeState({selected:['eggs','butter','salt','black-pepper'],staples:[]},ids,cuisineIds);
+ assert.deepEqual(s.selected,['eggs','butter']);
+ assert.deepEqual(s.staples,['salt','black-pepper']);
+ assert.equal(matchDetails(recipe('scrambled-eggs'),s).percent,100);
+ assert.deepEqual(normalizeState(s,ids,cuisineIds),s);
+ const off=normalizeState({...s,staples:[]},ids,cuisineIds);
+ assert.deepEqual(matchDetails(recipe('scrambled-eggs'),off).missing,['salt','black-pepper']);
+});
+
+test('every recipe is an exact match after saving all its ingredients, including mixed staple storage',()=>{
+ for(const r of recipes){
+  for(const saved of [
+   {selected:r.needed},
+   {selected:r.needed,staples:[]},
+   {selected:r.needed.filter(id=>!STAPLES.includes(id)),staples:r.needed.filter(id=>STAPLES.includes(id))}
+  ]){
+   const s=normalizeState(saved,ids,cuisineIds);
+   assert.equal(matchDetails(r,s).percent,100,r.id);
+   const ranked=rankRecipes(recipes,s);
+   const target=ranked.findIndex(m=>m.id===r.id);
+   assert.ok(ranked.slice(0,target).every(m=>matchDetails(m,s).percent===100),r.id);
+   for(const id of r.needed){
+    const missingOne={...s,selected:s.selected.filter(x=>x!==id),staples:s.staples.filter(x=>x!==id)};
+    assert.deepEqual(matchDetails(r,missingOne).missing,[id],`${r.id}: ${id}`);
+    assert.ok(matchDetails(r,missingOne).percent<100);
+   }
+  }
+ }
+});
+
+test('confirming cupboard ingredients unlocks and immediately reranks previously incomplete recipes',()=>{
+ const s=kitchen(['whole-wheat-flour','eggs','butter','rice','moong-dal','pasta','garlic','olive-oil','parsley']);
+ assert.equal(summarizePlan(recipes,s).complete,0);
+ s.staples=['salt','black-pepper','turmeric'];
+ const plan=summarizePlan(recipes,s);
+ for(const id of ['chapati','scrambled-eggs','simple-khichdi','aglio-e-olio']){
+  assert.equal(matchDetails(recipe(id),s).percent,100,id);
+  assert.ok(plan.meals.slice(0,plan.complete).some(m=>m.id===id),id);
+ }
+ s.staples=[];
+ assert.equal(summarizePlan(recipes,s).complete,0);
+});
