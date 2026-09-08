@@ -1,0 +1,2494 @@
+[
+  {
+    "id": "kanda-poha",
+    "name": "Kanda Poha",
+    "cuisine": "Indian",
+    "mealType": "breakfast",
+    "time": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "poha",
+      "neutral-oil",
+      "mustard-seeds",
+      "turmeric",
+      "asafoetida",
+      "green-chilli",
+      "onion",
+      "coriander",
+      "salt"
+    ],
+    "amounts": {
+      "poha": [
+        200.0,
+        "g"
+      ],
+      "neutral-oil": [
+        2.0,
+        "tbsp"
+      ],
+      "mustard-seeds": [
+        1.0,
+        "tsp"
+      ],
+      "turmeric": [
+        0.25,
+        "tsp"
+      ],
+      "asafoetida": [
+        1.0,
+        "pinch"
+      ],
+      "green-chilli": [
+        1.0,
+        "chopped"
+      ],
+      "onion": [
+        0.5,
+        "chopped"
+      ],
+      "coriander": [
+        2.0,
+        "sprigs"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Briefly rinse the poha in a sieve, drain and leave to soften while you prepare the onion and chilli.",
+      "Heat the oil in a frying pan. Add mustard seeds; once they pop, briefly stir in turmeric, asafoetida and green chilli.",
+      "Add the onion and cook gently for 2–3 minutes until soft. Loosen the damp poha with your fingers, then fold it into the pan with salt.",
+      "Cover and steam on low heat for 5 minutes. Stir, heat for another minute and finish with chopped fresh coriander."
+    ],
+    "description": "Soft flattened rice with a simple onion and mustard-seed tempering.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Pohe (Spiced Flattened Rice)",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4633573",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3APohe%20%28Spiced%20Flattened%20Rice%29&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=LAcFkm5Soq8",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Mumbai Style Kanda Poha | कांदे पोहे | Chef Ranveer Brar"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=Uov4arv3eYo",
+        "channel": "Rajshri Food",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Poha | Cooked Flattened Rice | Quick Indian Breakfast Recipe by Ruchi Bharani"
+      }
+    ]
+  },
+  {
+    "id": "vegetable-upma",
+    "name": "Vegetable Upma",
+    "cuisine": "Indian",
+    "mealType": "breakfast",
+    "time": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "semolina",
+      "onion",
+      "carrot",
+      "green-chilli",
+      "ginger",
+      "neutral-oil",
+      "mustard-seeds",
+      "cumin",
+      "urad-dal",
+      "peanuts",
+      "cashews",
+      "asafoetida",
+      "curry-leaves",
+      "salt",
+      "sugar"
+    ],
+    "amounts": {
+      "semolina": [
+        1.0,
+        "cup"
+      ],
+      "onion": [
+        0.5,
+        "chopped"
+      ],
+      "carrot": [
+        0.5,
+        "cup diced"
+      ],
+      "green-chilli": [
+        1.0,
+        "chopped"
+      ],
+      "ginger": [
+        1.0,
+        "tsp minced"
+      ],
+      "neutral-oil": [
+        1.0,
+        "tbsp"
+      ],
+      "mustard-seeds": [
+        1.0,
+        "tsp"
+      ],
+      "cumin": [
+        1.0,
+        "tsp"
+      ],
+      "urad-dal": [
+        1.0,
+        "tsp"
+      ],
+      "peanuts": [
+        1.0,
+        "tbsp"
+      ],
+      "cashews": [
+        1.0,
+        "tbsp"
+      ],
+      "asafoetida": [
+        1.0,
+        "pinch"
+      ],
+      "curry-leaves": [
+        5.0,
+        "leaves"
+      ],
+      "salt": "to taste",
+      "sugar": [
+        0.5,
+        "tsp"
+      ]
+    },
+    "steps": [
+      "Dry-roast the semolina over medium-low heat, stirring until fragrant and lightly golden. Tip onto a plate.",
+      "Heat oil in the same pan. Add mustard, cumin, urad dal, peanuts and cashews; stir until the seeds pop and the nuts are lightly golden.",
+      "Add asafoetida, curry leaves, ginger, chilli, onion and carrot. Cook for 3 minutes. Add the measured water and salt; cover and simmer until the carrot is tender.",
+      "Stir in sugar. Lower the heat and gradually pour in the semolina while stirring. Cover and cook gently for 3–5 minutes, until soft; loosen with hot water if needed."
+    ],
+    "description": "Toasted semolina with vegetables and a nutty tempering.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Upma (Indian Semolina Porridge)",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4615169",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AUpma%20%28Indian%20Semolina%20Porridge%29&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "water": 2.5,
+    "prepNote": "This adaptation omits the coconut and coriander garnish in the source.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=zpMqTRadZXM",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Easy Upma recipe for breakfast | उपमा बनाने का आसान तरीका | Chef Ranveer Brar"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=LuhrHOxwiq8",
+        "channel": "Rajshri Food",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Upma Recipe - How To Make Rava Upma - Healthy Breakfast Recipe - Ruchi Bharani"
+      }
+    ]
+  },
+  {
+    "id": "simple-khichdi",
+    "name": "Simple Dal Khichdi",
+    "cuisine": "Indian",
+    "mealType": "lunch / dinner",
+    "time": 40,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "rice",
+      "moong-dal",
+      "turmeric",
+      "salt"
+    ],
+    "amounts": {
+      "rice": [
+        0.5,
+        "cup"
+      ],
+      "moong-dal": [
+        0.5,
+        "cup"
+      ],
+      "turmeric": [
+        0.5,
+        "tsp"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Rinse rice and moong dal, then soak together for 15 minutes and drain.",
+      "Add them to a pressure cooker with the measured water, turmeric and salt. Follow your cooker’s minimum-liquid and fill-limit instructions.",
+      "Bring to pressure, then cook on low for about 5 minutes. Turn off the heat and let the pressure release naturally before opening.",
+      "Stir until creamy, adding hot water if needed. If the rice or dal is still firm, simmer uncovered until completely soft."
+    ],
+    "description": "A four-ingredient comfort meal, including the seasonings.",
+    "batchFriendly": true,
+    "source": {
+      "title": "Khichdi (South Asian Rice and Lentils)",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4515103",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AKhichdi%20%28South%20Asian%20Rice%20and%20Lentils%29&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "water": 3,
+    "prepNote": "Estimated time includes soaking and natural pressure release; cooker times vary.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=5RZxRtqZ184",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "4 Types Masala Khichdi | 4 तरह की मसाला खिचड़ी | Khichdis of India paakshala | Chef Ranveer Brar"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=lYuKcGfBkcc",
+        "channel": "Manjula's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Moong Dal Khichdi | A Simple Quick & Easy Tutorial By Manjula!"
+      }
+    ]
+  },
+  {
+    "id": "masala-omelette",
+    "name": "Masala Omelette",
+    "cuisine": "Indian",
+    "mealType": "breakfast",
+    "time": 15,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "eggs",
+      "onion",
+      "tomato",
+      "salt",
+      "black-pepper",
+      "cumin",
+      "coriander",
+      "green-chilli",
+      "chilli-powder",
+      "neutral-oil"
+    ],
+    "amounts": {
+      "eggs": [
+        4.0,
+        "eggs"
+      ],
+      "onion": [
+        1.0,
+        "cup chopped"
+      ],
+      "tomato": [
+        0.5,
+        "cup chopped"
+      ],
+      "salt": "to taste",
+      "black-pepper": [
+        0.25,
+        "tsp"
+      ],
+      "cumin": [
+        0.5,
+        "tsp"
+      ],
+      "coriander": [
+        1.0,
+        "tbsp chopped"
+      ],
+      "green-chilli": [
+        1.0,
+        "chopped"
+      ],
+      "chilli-powder": [
+        0.25,
+        "tsp"
+      ],
+      "neutral-oil": [
+        2.0,
+        "tsp"
+      ]
+    },
+    "steps": [
+      "Finely chop the onion, tomato, chilli and coriander. Whisk the eggs with the salt, pepper, cumin and chilli powder, then stir in the vegetables.",
+      "Heat half the oil in a small non-stick pan over medium-low heat and add half the egg mixture.",
+      "Cook until the underside is lightly golden and the top is mostly set. Flip carefully and cook until no liquid egg remains.",
+      "Repeat with the remaining oil and mixture. Serve each omelette hot."
+    ],
+    "description": "A familiar pan omelette with onion, tomato and everyday spices.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Indian Omelet",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4517802",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AIndian%20Omelet&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=sAa-CEl5Z-k",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Masala Omelette with Fry Potato | मसाला आमलेट की रेसिपी | Omelette Tips | Chef Ranveer Brar"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=uhjH7tlM1Jw",
+        "channel": "Sanjeev Kapoor Khazana ",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Indian Masala Omelette | Sanjeev Kapoor Khazana"
+      }
+    ]
+  },
+  {
+    "id": "aloo-gobi",
+    "name": "Home-style Aloo Gobi",
+    "cuisine": "Indian",
+    "mealType": "lunch / dinner",
+    "time": 35,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "potato",
+      "cauliflower",
+      "tomato",
+      "neutral-oil",
+      "cumin",
+      "turmeric",
+      "coriander-powder",
+      "chilli-powder",
+      "garam-masala",
+      "lemon",
+      "salt"
+    ],
+    "amounts": {
+      "potato": [
+        2.0,
+        "medium"
+      ],
+      "cauliflower": [
+        300.0,
+        "g"
+      ],
+      "tomato": [
+        2.0,
+        "medium"
+      ],
+      "neutral-oil": [
+        1.5,
+        "tbsp"
+      ],
+      "cumin": [
+        0.5,
+        "tsp"
+      ],
+      "turmeric": [
+        0.25,
+        "tsp"
+      ],
+      "coriander-powder": [
+        1.0,
+        "tsp"
+      ],
+      "chilli-powder": [
+        0.25,
+        "tsp"
+      ],
+      "garam-masala": [
+        0.5,
+        "tsp"
+      ],
+      "lemon": [
+        0.5,
+        "lemon"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Cut potatoes into small cubes, cauliflower into bite-size florets and tomatoes into small pieces.",
+      "Heat oil and let cumin sizzle. Stir in turmeric, coriander powder, chilli powder and tomatoes; cook until the tomatoes soften.",
+      "Add potatoes, cauliflower, salt and a small splash of water. Cover and cook gently for 15–20 minutes, stirring occasionally, until both vegetables are tender.",
+      "Uncover to evaporate excess water. Add garam masala and lemon juice, stir and serve."
+    ],
+    "description": "A simple covered-pan potato and cauliflower sabzi.",
+    "batchFriendly": true,
+    "source": {
+      "title": "Potato and Cauliflower Curry (Aloo Gobi)",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4510216",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3APotato%20and%20Cauliflower%20Curry%20%28Aloo%20Gobi%29&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "Adaptation uses smaller portions and salt to taste; the source’s unusually high salt quantity is not used. Mint garnish omitted.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=PhgyyJE90w8",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "आसान आलू गोभी की सब्जी | home style Aloo Gobhi | घर की रेसिपी | Chef Ranveer Brar"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=IQ8sDvASVGE",
+        "channel": "Manjula's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Aloo Gobi | Potatoes & Cauliflower | Recipe by Manjula, Indian Vegetarian Food"
+      }
+    ]
+  },
+  {
+    "id": "cucumber-raita",
+    "name": "Cucumber Raita",
+    "cuisine": "Indian",
+    "mealType": "side",
+    "time": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "cucumber",
+      "yogurt",
+      "mint",
+      "coriander",
+      "cumin",
+      "salt"
+    ],
+    "amounts": {
+      "cucumber": [
+        0.5,
+        "cup grated"
+      ],
+      "yogurt": [
+        1.0,
+        "cup"
+      ],
+      "mint": [
+        5.0,
+        "leaves"
+      ],
+      "coriander": [
+        1.0,
+        "tsp chopped"
+      ],
+      "cumin": [
+        0.25,
+        "tsp"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Squeeze excess liquid from the grated cucumber. Whisk the yogurt until smooth.",
+      "Finely chop the mint and fresh coriander, then stir into the yogurt with cucumber and salt.",
+      "Dry-toast the cumin briefly until fragrant, crush it and sprinkle over the raita. Serve cool."
+    ],
+    "description": "A cool yogurt side for rice, roti or a simple curry.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Raita",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4518927",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ARaita&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "Optional onion and chilli from the source are omitted.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=Or9HG74OTqU",
+        "channel": "Recipe Mantra - Hindi",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "खीरे का रायता 2 प्रकार से | Kheere ka rayta | Cucumber Raita recipe in hindi- Kheere Ka Raita"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=QyS8_odSfn0",
+        "channel": "Manjula's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Kheera Raita | Cucumber Raita Yogurt Dip | Raita Kheera Recipe by Manjula"
+      }
+    ]
+  },
+  {
+    "id": "chapati",
+    "name": "Everyday Chapati",
+    "cuisine": "Indian",
+    "mealType": "side",
+    "time": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "whole-wheat-flour",
+      "salt"
+    ],
+    "amounts": {
+      "whole-wheat-flour": [
+        1.5,
+        "cups"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Mix flour and salt. Add warm water a little at a time and knead to a smooth, soft dough; stop adding water when the dough holds together without sticking.",
+      "Cover and rest for 10 minutes. Divide into small equal balls and roll into thin rounds on a lightly floured surface.",
+      "Heat a dry heavy pan over medium-high heat. Cook each chapati until bubbles form, then flip and cook the other side.",
+      "Press gently with a spatula to help it puff. Turn as needed until cooked with light brown spots. Keep covered in a clean cloth while cooking the rest."
+    ],
+    "description": "Whole-wheat flatbreads made with flour, water and a little salt.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Chapati",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4630849",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AChapati&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "water": 0.75,
+    "waterNote": "approximately; add gradually.",
+    "prepNote": "Makes about 6 small chapatis for 2 people; optional ghee omitted.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=EEYoDRwAyeU",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "The Dough MasterClass | आटा कैसे गूँधते हैं | Mathri Recipe | रोटी पराठे समोसे का आटा | Chef Ranveer"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=jD4o_Lmy6bU",
+        "channel": "Manjula's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "3.7M Views! 🍽️ Perfect Chapati Recipe | Learn to make Roti at Home with Manjula"
+      }
+    ]
+  },
+  {
+    "id": "lemon-rice",
+    "name": "Lemon Rice",
+    "cuisine": "Indian",
+    "mealType": "lunch / dinner",
+    "time": 15,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "cooked-rice",
+      "mustard-seeds",
+      "sesame-oil",
+      "split-peas",
+      "peanuts",
+      "asafoetida",
+      "dried-chilli",
+      "curry-leaves",
+      "lemon",
+      "turmeric",
+      "salt"
+    ],
+    "amounts": {
+      "cooked-rice": [
+        2.0,
+        "cups"
+      ],
+      "mustard-seeds": [
+        0.5,
+        "tsp"
+      ],
+      "sesame-oil": [
+        1.5,
+        "tbsp"
+      ],
+      "split-peas": [
+        1.0,
+        "tbsp"
+      ],
+      "peanuts": [
+        1.0,
+        "tbsp"
+      ],
+      "asafoetida": [
+        0.25,
+        "tsp"
+      ],
+      "dried-chilli": [
+        2.0,
+        "chillies"
+      ],
+      "curry-leaves": [
+        5.0,
+        "leaves"
+      ],
+      "lemon": [
+        1.0,
+        "lemon"
+      ],
+      "turmeric": [
+        0.5,
+        "tsp"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Break up any clumps in the cooked rice. Juice the lemon and keep it ready.",
+      "Heat sesame oil. Fry the split peas and peanuts until golden, then add mustard seeds, asafoetida, curry leaves and dried chillies.",
+      "When the seeds pop, lower the heat and stir in turmeric, salt and lemon juice.",
+      "Fold in the cooked rice. Stir over medium heat until thoroughly steaming hot, then serve."
+    ],
+    "description": "Bright lemon rice using rice you have already cooked.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Lemon Rice",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4615196",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ALemon%20Rice&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "15 minutes assumes cooked rice is ready. Uncooked rice is a separate pantry item.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=ovZPQjM_0r0",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Lemon Rice easy recipe | साउथ इंडियन लेमन राइस/निम्बू चावल | Chithranna | Chef Ranveer Brar"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=yTIRAYfjbo0",
+        "channel": "Manjula's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Lemon Rice | Lemon Rice | Easy Lemon Rice Recipe by Manjula"
+      }
+    ]
+  },
+  {
+    "id": "moong-dal",
+    "name": "Everyday Moong Dal",
+    "cuisine": "Indian",
+    "mealType": "lunch / dinner",
+    "time": 35,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "moong-dal",
+      "green-chilli",
+      "turmeric",
+      "salt",
+      "neutral-oil",
+      "curry-leaves",
+      "cumin"
+    ],
+    "amounts": {
+      "moong-dal": [
+        0.5,
+        "cup"
+      ],
+      "green-chilli": [
+        1.0,
+        "chilli"
+      ],
+      "turmeric": [
+        0.5,
+        "tsp"
+      ],
+      "salt": "to taste",
+      "neutral-oil": [
+        1.0,
+        "tbsp"
+      ],
+      "curry-leaves": [
+        5.0,
+        "leaves"
+      ],
+      "cumin": [
+        1.0,
+        "tsp"
+      ]
+    },
+    "steps": [
+      "Rinse the dal. Put it in a pressure cooker with chilli, turmeric and measured water, observing the cooker’s minimum-liquid instructions.",
+      "Pressure-cook for about 10–15 minutes, then allow pressure to release naturally. Open and mash the dal; add salt and extra hot water if needed.",
+      "In a small pan, heat oil and add cumin and curry leaves. When fragrant, pour the tempering into the dal.",
+      "Simmer briefly, stirring, until hot and creamy."
+    ],
+    "description": "Soft yellow dal with a quick cumin and curry-leaf tempering.",
+    "batchFriendly": true,
+    "source": {
+      "title": "Indian Moong Dal",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4515496",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AIndian%20Moong%20Dal&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "water": 1.5,
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=p3GyNrTpMHs",
+        "channel": "Foods and Flavors",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Moong dal Recipe in different style - Yellow Moong dal Tadka Recipe - Dhaba dal tadka recipe"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=DYRdHTVVEuU",
+        "channel": "Food Fusion",
+        "format": "on-screen",
+        "checkedAt": "2026-09-08",
+        "title": "Easy Tadke wali Moong Dal Recipe by Food Fusion (How to Make authentic Moong Daal recipe with tarka)"
+      }
+    ]
+  },
+  {
+    "id": "matar-paneer",
+    "name": "Matar Paneer",
+    "cuisine": "Indian",
+    "mealType": "lunch / dinner",
+    "time": 35,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "paneer",
+      "peas",
+      "onion",
+      "tomato",
+      "ginger",
+      "garlic",
+      "green-chilli",
+      "neutral-oil",
+      "cumin",
+      "turmeric",
+      "chilli-powder",
+      "coriander-powder",
+      "garam-masala",
+      "salt"
+    ],
+    "amounts": {
+      "paneer": [
+        200.0,
+        "g"
+      ],
+      "peas": [
+        0.5,
+        "cup"
+      ],
+      "onion": [
+        1.0,
+        "cup chopped"
+      ],
+      "tomato": [
+        1.0,
+        "cup chopped"
+      ],
+      "ginger": [
+        0.5,
+        "tsp minced"
+      ],
+      "garlic": [
+        0.5,
+        "tsp minced"
+      ],
+      "green-chilli": [
+        1.0,
+        "chopped"
+      ],
+      "neutral-oil": [
+        1.5,
+        "tbsp"
+      ],
+      "cumin": [
+        0.5,
+        "tsp"
+      ],
+      "turmeric": [
+        0.25,
+        "tsp"
+      ],
+      "chilli-powder": [
+        0.5,
+        "tsp"
+      ],
+      "coriander-powder": [
+        1.0,
+        "tsp"
+      ],
+      "garam-masala": [
+        0.5,
+        "tsp"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Cut the paneer into cubes. Heat oil in a pan, add cumin, then onion. Cook until softened.",
+      "Add ginger, garlic and green chilli. Stir briefly, then add tomato, turmeric, chilli powder and coriander powder. Cook until the tomatoes become a thick sauce.",
+      "Add peas, salt and the measured water. Cover and simmer until the peas are tender.",
+      "Add paneer and garam masala. Simmer gently for 3–5 minutes, adding a little water if the sauce is too thick."
+    ],
+    "description": "Paneer and peas in a simple, unblended tomato gravy.",
+    "batchFriendly": true,
+    "source": {
+      "title": "Matar Paneer",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4514693",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AMatar%20Paneer&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "water": 0.75,
+    "prepNote": "Simplified from the source: no blender, separate paneer frying or final oil tempering.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=tYt9s6-5MLc",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "No-Fail! Matar Paneer recipe | माँ की स्पेशल मटर पनीर रेसिपी | Matar Paneer gravy | Chef RanveerBrar"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=sdGtxnEh0zQ",
+        "channel": "Manjula's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Mattar Paneer | Mutter Paneer Recipe by Manjula's Kitchen Recipes"
+      }
+    ]
+  },
+  {
+    "id": "chickpea-curry",
+    "name": "Quick Chickpea Curry",
+    "cuisine": "Indian",
+    "mealType": "lunch / dinner",
+    "time": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "chickpeas",
+      "neutral-oil",
+      "onion",
+      "tomato",
+      "chilli-powder",
+      "curry-powder",
+      "garam-masala",
+      "turmeric",
+      "garlic",
+      "ginger",
+      "salt"
+    ],
+    "amounts": {
+      "chickpeas": [
+        2.0,
+        "cups cooked"
+      ],
+      "neutral-oil": [
+        1.0,
+        "tbsp"
+      ],
+      "onion": [
+        1.0,
+        "chopped"
+      ],
+      "tomato": [
+        1.0,
+        "chopped"
+      ],
+      "chilli-powder": [
+        0.5,
+        "tsp"
+      ],
+      "curry-powder": [
+        1.5,
+        "tsp"
+      ],
+      "garam-masala": [
+        0.25,
+        "tsp"
+      ],
+      "turmeric": [
+        0.25,
+        "tsp"
+      ],
+      "garlic": [
+        1.0,
+        "tsp minced"
+      ],
+      "ginger": [
+        1.0,
+        "tsp minced"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Drain and rinse the cooked or canned chickpeas. Heat oil in a saucepan and cook the onion until golden.",
+      "Lower the heat and stir in the spices, followed by tomato, ginger and garlic. Cook for a few minutes until the tomato softens.",
+      "Add chickpeas, salt and measured water. Simmer for about 10 minutes, stirring occasionally.",
+      "Mash a spoonful of chickpeas into the sauce to thicken it, stir and serve."
+    ],
+    "description": "A weeknight chole adaptation using already cooked chickpeas.",
+    "batchFriendly": true,
+    "source": {
+      "title": "Chickpea Curry (Masaledaar Chole)",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4518589",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AChickpea%20Curry%20%28Masaledaar%20Chole%29&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "water": 0.5,
+    "prepNote": "Uses cooked/canned chickpeas. The source’s overnight soaking and pressure-cooking are replaced by this shortcut.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=M15TScMRAKw",
+        "channel": "Kabita's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Traditional Chole recipe (chickpea curry)-Chola Masala-Chole Recipe in Hindi"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=XiDMmrRcvOQ",
+        "channel": "Manjula's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Chole Chana Masala Recipe | How to Make Chole Chana Masala by Manjula"
+      }
+    ]
+  },
+  {
+    "id": "aloo-masala",
+    "name": "Aloo Masala",
+    "cuisine": "Indian",
+    "mealType": "lunch / dinner",
+    "time": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "potato",
+      "neutral-oil",
+      "mustard-seeds",
+      "curry-leaves",
+      "onion",
+      "green-chilli",
+      "turmeric",
+      "salt"
+    ],
+    "amounts": {
+      "potato": [
+        2.0,
+        "large"
+      ],
+      "neutral-oil": [
+        1.0,
+        "tbsp"
+      ],
+      "mustard-seeds": [
+        0.5,
+        "tsp"
+      ],
+      "curry-leaves": [
+        5.0,
+        "leaves"
+      ],
+      "onion": [
+        1.0,
+        "chopped"
+      ],
+      "green-chilli": [
+        1.0,
+        "chopped"
+      ],
+      "turmeric": [
+        0.25,
+        "tsp"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Peel and cube the potatoes. Cover with water in a saucepan and boil until just tender, about 12–15 minutes; drain.",
+      "Meanwhile heat oil in a frying pan. Add mustard seeds; when they pop, add curry leaves, onion and chilli. Cook until the onion softens.",
+      "Fold in potatoes, turmeric and salt with a small splash of water. Cover and cook for 5 minutes.",
+      "Lightly crush a few potatoes with the spoon and stir to bring the filling together."
+    ],
+    "description": "Soft, lightly spiced potatoes, good alongside roti or as a dosa filling.",
+    "batchFriendly": true,
+    "source": {
+      "title": "Potato Curry (Aloo Masala)",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4615205",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3APotato%20Curry%20%28Aloo%20Masala%29&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "Time includes boiling raw potatoes; optional chana dal omitted.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=soAjw44q8tY",
+        "channel": "Shaluzlovebook Kitchen. ",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "बाज़ार वाले ऐसे बनाते है मसाला डोसा आलू-Dosa Aloo Recipe-Potato Filling for Masala Dosa-Masala Dos"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=XonmMhTkA10",
+        "channel": "Sanjeev Kapoor Khazana ",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Potato filling for Masala Dosa | Sanjeev Kapoor Khazana"
+      }
+    ]
+  },
+  {
+    "id": "french-toast",
+    "name": "Simple French Toast",
+    "cuisine": "American",
+    "mealType": "breakfast",
+    "time": 15,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "eggs",
+      "milk",
+      "bread",
+      "butter",
+      "sugar",
+      "cinnamon"
+    ],
+    "amounts": {
+      "eggs": [
+        2.0,
+        "eggs"
+      ],
+      "milk": [
+        0.5,
+        "cup"
+      ],
+      "bread": [
+        4.0,
+        "slices"
+      ],
+      "butter": [
+        1.0,
+        "tbsp"
+      ],
+      "sugar": [
+        1.0,
+        "tsp"
+      ],
+      "cinnamon": [
+        0.25,
+        "tsp"
+      ]
+    },
+    "steps": [
+      "Whisk eggs, milk, sugar and cinnamon until smooth.",
+      "Heat a little butter in a frying pan over medium-low heat. Dip both sides of each bread slice briefly in the egg mixture without letting it fall apart.",
+      "Fry in batches for about 2–3 minutes per side, until golden and the egg in the centre is fully cooked. Use the remaining butter between batches.",
+      "Serve warm."
+    ],
+    "description": "Golden eggy bread with a little cinnamon.",
+    "batchFriendly": false,
+    "source": {
+      "title": "French Toast",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4655023",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AFrench%20Toast&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "Optional source toppings, vanilla and savoury seasonings omitted.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=US7mX4Nk0gs",
+        "channel": "Kabita's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "5 मिनट में बनाए ब्रेड का नास्ता | French Toast Recipe | Breakfast Recipe | Kabitaskitchen"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=1zyJT-PiqUA",
+        "channel": "Food Wishes",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "French Toast - Do you really know how to make it?"
+      }
+    ]
+  },
+  {
+    "id": "fluffy-pancakes",
+    "name": "Fluffy Pancakes",
+    "cuisine": "American",
+    "mealType": "breakfast",
+    "time": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "flour",
+      "sugar",
+      "salt",
+      "baking-powder",
+      "baking-soda",
+      "buttermilk",
+      "milk",
+      "eggs",
+      "butter",
+      "vanilla",
+      "neutral-oil"
+    ],
+    "amounts": {
+      "flour": [
+        1.0,
+        "cup"
+      ],
+      "sugar": [
+        2.0,
+        "tsp"
+      ],
+      "salt": "to taste",
+      "baking-powder": [
+        0.5,
+        "tsp"
+      ],
+      "baking-soda": [
+        0.25,
+        "tsp"
+      ],
+      "buttermilk": [
+        0.75,
+        "cup"
+      ],
+      "milk": [
+        0.25,
+        "cup"
+      ],
+      "eggs": [
+        1.0,
+        "egg"
+      ],
+      "butter": [
+        2.0,
+        "tbsp"
+      ],
+      "vanilla": [
+        1.0,
+        "tsp"
+      ],
+      "neutral-oil": [
+        2.0,
+        "tsp"
+      ]
+    },
+    "steps": [
+      "Mix flour, sugar, salt, baking powder and baking soda in a bowl.",
+      "Melt the butter and let it cool slightly. Whisk it with buttermilk, milk, egg and vanilla. Stir the wet mixture into the dry ingredients just until combined.",
+      "Warm a lightly oiled frying pan over medium heat. Add small ladlefuls of batter, leaving room between pancakes.",
+      "Cook until bubbles appear and the underside is golden, then flip and cook until the second side is golden and the centre is set. Repeat in batches."
+    ],
+    "description": "A small batch of soft buttermilk pancakes.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Light Fluffy Pancakes",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4522787",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ALight%20Fluffy%20Pancakes&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=pyp59C1Cif0",
+        "channel": "Aarti Madan",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Pancake Recipe | How to Make Pancakes at Home (in Hindi)"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=qE5ycgqswGY",
+        "channel": "Preppy Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "The BEST Pancake Recipe"
+      }
+    ]
+  },
+  {
+    "id": "scrambled-eggs",
+    "name": "Butter Scrambled Eggs",
+    "cuisine": "American",
+    "mealType": "breakfast",
+    "time": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "eggs",
+      "butter",
+      "salt",
+      "black-pepper"
+    ],
+    "amounts": {
+      "eggs": [
+        4.0,
+        "eggs"
+      ],
+      "butter": [
+        1.0,
+        "tbsp"
+      ],
+      "salt": "to taste",
+      "black-pepper": "to taste"
+    },
+    "steps": [
+      "Crack the eggs into a bowl, add salt and whisk until the yolks and whites combine.",
+      "Melt butter in a non-stick pan over medium-low heat. Pour in the eggs and stir gently with a spatula, drawing the set edges towards the centre.",
+      "Keep folding until the eggs form soft curds and no liquid egg remains. Remove from the heat, season with pepper and serve immediately."
+    ],
+    "description": "A quick pan of eggs with just butter and seasoning.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Scrambled Eggs",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4523414",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AScrambled%20Eggs&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "Optional milk and toast are not required for this version.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=H9_K4FxRNPo",
+        "channel": "Hinz Cooking (Easy Dinner Recipes)",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Indian Scrambled Eggs (Soft and Creamy) - Hinz Cooking"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=XlhUJMg1pp0",
+        "channel": "Kanak's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Perfect Scrambled Eggs Indian Style | How to make Basic Scrambled Eggs | Kanak's Kitchen"
+      }
+    ]
+  },
+  {
+    "id": "grilled-cheese",
+    "name": "Grilled Cheese Sandwich",
+    "cuisine": "American",
+    "mealType": "lunch",
+    "time": 15,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "bread",
+      "cheddar",
+      "butter"
+    ],
+    "amounts": {
+      "bread": [
+        4.0,
+        "slices"
+      ],
+      "cheddar": [
+        80.0,
+        "g"
+      ],
+      "butter": [
+        1.5,
+        "tbsp"
+      ]
+    },
+    "steps": [
+      "Butter one side of each bread slice. Grate or thinly slice the cheese.",
+      "Put half the bread, butter-side down, in a warm frying pan. Top with cheese and the remaining bread, butter-side up.",
+      "Cook over medium-low heat until golden underneath. Flip carefully and cook the other side, pressing gently, until the cheese melts.",
+      "Cut and serve hot."
+    ],
+    "description": "Three ingredients and one frying pan.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Grilled Cheese Sandwich",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4518251",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AGrilled%20Cheese%20Sandwich&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=lbrk1NGD5T8",
+        "channel": "Anyone can cook with me",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Grilled Cheese Sandwich Recipe | Easy And Quick Breakfast Sandwich Recipe In Hindi"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=BlTCkNkfmRY",
+        "channel": "Food Wishes",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "How to Make an Inside-Out Grilled Cheese Sandwich | Food Wishes"
+      }
+    ]
+  },
+  {
+    "id": "quick-hummus",
+    "name": "Quick Hummus",
+    "cuisine": "Middle Eastern",
+    "mealType": "side",
+    "time": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "chickpeas",
+      "garlic",
+      "tahini",
+      "cumin",
+      "coriander",
+      "salt"
+    ],
+    "amounts": {
+      "chickpeas": [
+        2.0,
+        "cups cooked"
+      ],
+      "garlic": [
+        1.0,
+        "clove"
+      ],
+      "tahini": [
+        3.0,
+        "tbsp"
+      ],
+      "cumin": [
+        0.5,
+        "tsp"
+      ],
+      "coriander": [
+        1.0,
+        "tbsp chopped"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Drain and rinse the cooked chickpeas. Crush the garlic.",
+      "Blend chickpeas, garlic, tahini, cumin and salt in a food processor. Add the measured water gradually until creamy.",
+      "Taste, adjust the seasoning and stir in the chopped coriander. Spoon into a serving bowl."
+    ],
+    "description": "A quick chickpea dip using cooked chickpeas and tahini.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Hummus I",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4515548",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AHummus%20I&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "water": 0.25,
+    "waterNote": "approximately; add gradually.",
+    "prepNote": "Uses cooked/canned chickpeas instead of the source’s overnight soak and long boil. A food processor is needed.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=aSOG7V62CbE",
+        "channel": "Zee Zest",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Classic Hummus Recipe | Make Hummus at Home | Chef Ranveer Brar | Easy & Simple Recipe"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=d4soRs0ZBgE",
+        "channel": "Inspired Taste",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Easy Hummus Recipe (Better than Store-Bought)"
+      }
+    ]
+  },
+  {
+    "id": "guacamole",
+    "name": "Chunky Guacamole",
+    "cuisine": "Mexican",
+    "mealType": "side",
+    "time": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "avocado",
+      "tomato",
+      "onion",
+      "lime",
+      "green-chilli",
+      "garlic",
+      "olive-oil",
+      "black-pepper",
+      "salt"
+    ],
+    "amounts": {
+      "avocado": [
+        2.0,
+        "avocados"
+      ],
+      "tomato": [
+        2.0,
+        "tbsp chopped"
+      ],
+      "onion": [
+        1.0,
+        "tbsp chopped"
+      ],
+      "lime": [
+        0.5,
+        "lime"
+      ],
+      "green-chilli": [
+        1.0,
+        "chopped"
+      ],
+      "garlic": [
+        0.5,
+        "tsp minced"
+      ],
+      "olive-oil": [
+        1.0,
+        "tsp"
+      ],
+      "black-pepper": "to taste",
+      "salt": "to taste"
+    },
+    "steps": [
+      "Halve the avocados, remove the stones and scoop the flesh into a bowl. Mash half of it with lime juice.",
+      "Stir in finely chopped tomato, onion, chilli, garlic, olive oil, salt and pepper.",
+      "Fold in the remaining avocado in small chunks. Taste and serve soon after making."
+    ],
+    "description": "A fresh avocado dip with a little crunch.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Guacamole",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4636788",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AGuacamole&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "Pico de gallo is represented by tomato, onion and lime; green chilli replaces jalapeño.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=3fK7WP_Za0g",
+        "channel": "Anubha's Kitchen Diaries",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Homemade Guacamole |  आवाकाड़ो चटनी  | Quick, Easy & Healthy Recipe in Hindi with English subtitles"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=cOn9BCoXkk0",
+        "channel": "Inspired Taste",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Easy Guacamole Recipe"
+      }
+    ]
+  },
+  {
+    "id": "aglio-e-olio",
+    "name": "Spaghetti Aglio e Olio",
+    "cuisine": "Italian",
+    "mealType": "lunch / dinner",
+    "time": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "pasta",
+      "garlic",
+      "olive-oil",
+      "black-pepper",
+      "parsley",
+      "salt"
+    ],
+    "amounts": {
+      "pasta": [
+        200.0,
+        "g spaghetti"
+      ],
+      "garlic": [
+        4.0,
+        "cloves"
+      ],
+      "olive-oil": [
+        2.0,
+        "tbsp"
+      ],
+      "black-pepper": "to taste",
+      "parsley": [
+        1.0,
+        "tbsp chopped"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Bring a pan of water to the boil, season with salt and cook the spaghetti until al dente according to its packet.",
+      "Meanwhile peel and gently crush the garlic. Heat it slowly in olive oil until lightly golden; do not let it burn.",
+      "Remove the garlic if you prefer. Drain the spaghetti, reserving a little cooking water, and add it to the oil.",
+      "Toss with pepper and parsley, adding a spoonful of the reserved water if needed to loosen the pasta."
+    ],
+    "description": "Garlic, olive oil and pasta: a small-ingredient dinner.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Spaghetti Aglio e Olio",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4505815",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ASpaghetti%20Aglio%20e%20Olio&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=9duWxcKFJgE",
+        "channel": "MOHIT RECIPES ",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Spaghetti Aglio E Olio Recipe In Hindi | लहसुन और जैतून स्पेगेटी /5 Ingredients Pasta |By Chef Mohit"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=a0EyzJsf1eo",
+        "channel": "NOT ANOTHER COOKING SHOW",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "how to make SPAGHETTI AGLIO E OLIO like an ITALIAN"
+      }
+    ]
+  },
+  {
+    "id": "vegetable-fried-rice",
+    "name": "Vegetable Fried Rice",
+    "cuisine": "Chinese",
+    "mealType": "lunch / dinner",
+    "time": 20,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "cooked-rice",
+      "peas",
+      "carrot",
+      "onion",
+      "garlic",
+      "soy-sauce",
+      "neutral-oil",
+      "black-pepper"
+    ],
+    "amounts": {
+      "cooked-rice": [
+        2.0,
+        "cups"
+      ],
+      "peas": [
+        0.5,
+        "cup"
+      ],
+      "carrot": [
+        0.5,
+        "cup diced"
+      ],
+      "onion": [
+        0.5,
+        "chopped"
+      ],
+      "garlic": [
+        2.0,
+        "cloves"
+      ],
+      "soy-sauce": [
+        1.0,
+        "tbsp"
+      ],
+      "neutral-oil": [
+        1.0,
+        "tbsp"
+      ],
+      "black-pepper": "to taste"
+    },
+    "steps": [
+      "Break up the cold cooked rice. Finely dice the carrot and onion and mince the garlic.",
+      "Heat oil in a wide frying pan. Stir-fry onion, carrot and peas until the vegetables are tender-crisp, about 5 minutes.",
+      "Add garlic, stir briefly, then add rice and soy sauce. Toss over medium-high heat until all the rice is steaming hot.",
+      "Season with black pepper and serve."
+    ],
+    "description": "A simple vegetable stir-fry built around already cooked rice.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Fried Rice",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4523476",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AFried%20Rice&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "20 minutes assumes cooked rice is ready. The source’s optional meats and other fillings are omitted.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=P0ullgo0Lnw",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "वेज फ्राइड राइस बाजार जैसे घर पे | Street style Veg Fried Rice | easy Fried Rice | Chef Ranveer Brar"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=U1W-ltjmpco",
+        "channel": "Hebbars Kitchen",
+        "format": "on-screen",
+        "checkedAt": "2026-09-08",
+        "title": "Street Style Veg Fried Rice with Simple Secret Sauces & Rice Cooking Tips | Vegetable Fried Rice"
+      }
+    ]
+  },
+  {
+    "id": "spinach-quesadilla",
+    "name": "Spinach Cheese Quesadillas",
+    "cuisine": "Mexican",
+    "mealType": "lunch",
+    "time": 15,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "tortilla",
+      "cheddar",
+      "spinach",
+      "neutral-oil"
+    ],
+    "amounts": {
+      "tortilla": [
+        4.0,
+        "small tortillas"
+      ],
+      "cheddar": [
+        0.67,
+        "cup grated"
+      ],
+      "spinach": [
+        1.0,
+        "cup"
+      ],
+      "neutral-oil": [
+        2.0,
+        "tsp"
+      ]
+    },
+    "steps": [
+      "Wash and drain the spinach. Wilt it briefly in a dry pan, then squeeze out excess moisture and chop.",
+      "Warm a lightly oiled frying pan over medium-low heat. Place a tortilla in the pan and cover half with cheese and spinach.",
+      "Fold the tortilla over the filling. Cook on both sides until lightly browned and the cheese is fully melted.",
+      "Repeat with the remaining tortillas, divide into wedges and serve hot."
+    ],
+    "description": "Crisp pan tortillas with a simple spinach and cheese filling.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Quesadilla",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4600876",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AQuesadilla&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=FkJWgQWnevY",
+        "channel": "Manisha Bharani's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Mexican Cheese Quesadilla Recipe In Hindi Quick & Easy Evening Starter Snacks"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=pmzuSRmhHoA",
+        "channel": "Pinch Of Flavours",
+        "format": "on-screen",
+        "checkedAt": "2026-09-08",
+        "title": "Spinach Quesadilla - Vegan Spinach Quesadillas"
+      }
+    ]
+  },
+  {
+    "id": "tomato-herb-soup",
+    "name": "Tomato & Herb Soup",
+    "cuisine": "Mediterranean",
+    "mealType": "lunch / dinner",
+    "time": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "olive-oil",
+      "onion",
+      "canned-tomatoes",
+      "stock",
+      "tomato-sauce",
+      "basil",
+      "thyme",
+      "black-pepper"
+    ],
+    "amounts": {
+      "olive-oil": [
+        0.5,
+        "tbsp"
+      ],
+      "onion": [
+        0.25,
+        "cup diced"
+      ],
+      "canned-tomatoes": [
+        200.0,
+        "g"
+      ],
+      "stock": [
+        0.75,
+        "cup"
+      ],
+      "tomato-sauce": [
+        225.0,
+        "g"
+      ],
+      "basil": [
+        1.5,
+        "tsp chopped"
+      ],
+      "thyme": [
+        0.5,
+        "tsp leaves"
+      ],
+      "black-pepper": "to taste"
+    },
+    "steps": [
+      "Heat olive oil in a saucepan and cook the onion until soft without browning.",
+      "Add canned tomatoes, prepared stock, tomato sauce, basil, thyme and pepper. Bring to a gentle boil.",
+      "Lower the heat, cover and simmer for 20 minutes, stirring occasionally. Break up the tomatoes with a spoon.",
+      "Taste and serve hot."
+    ],
+    "description": "An uncomplicated tomato soup with herbs and pantry staples.",
+    "batchFriendly": true,
+    "source": {
+      "title": "Herbed Tomato Soup",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4518417",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AHerbed%20Tomato%20Soup&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "Use prepared vegetable stock for a vegetarian soup. Optional balsamic vinegar omitted.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=9ht8XY8D6oY",
+        "channel": "Chef Ranveer Brar",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Tomato Soup | होटल जैसा टमाटर सूप | Basil Pesto & Garlic Bread bonus recipe | Chef Ranveer Brar"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=4fPYsw8XVm8",
+        "channel": "Food Wishes",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Fresh Tomato Soup with Crispy Cheese Toast - Food Wishes"
+      }
+    ]
+  },
+  {
+    "id": "kerala-vegetable-stew",
+    "name": "Kerala Vegetable Stew",
+    "cuisine": "Indian",
+    "mealType": "lunch / dinner",
+    "time": 40,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "potato",
+      "carrot",
+      "green-beans",
+      "peas",
+      "coconut-milk",
+      "neutral-oil",
+      "onion",
+      "ginger",
+      "green-chilli",
+      "curry-leaves",
+      "cloves",
+      "cinnamon",
+      "cardamom",
+      "flour",
+      "black-pepper",
+      "salt",
+      "mustard-seeds"
+    ],
+    "amounts": {
+      "potato": [
+        1.0,
+        "medium"
+      ],
+      "carrot": [
+        1.0,
+        "medium"
+      ],
+      "green-beans": [
+        0.5,
+        "cup chopped"
+      ],
+      "peas": [
+        0.25,
+        "cup"
+      ],
+      "coconut-milk": [
+        1.0,
+        "cup"
+      ],
+      "neutral-oil": [
+        1.0,
+        "tbsp"
+      ],
+      "onion": [
+        1.0,
+        "small"
+      ],
+      "ginger": [
+        1.0,
+        "tsp minced"
+      ],
+      "green-chilli": [
+        1.0,
+        "chilli"
+      ],
+      "curry-leaves": [
+        10.0,
+        "leaves"
+      ],
+      "cloves": [
+        2.0,
+        "cloves"
+      ],
+      "cinnamon": [
+        1.0,
+        "small stick"
+      ],
+      "cardamom": [
+        2.0,
+        "pods"
+      ],
+      "flour": [
+        1.0,
+        "tsp"
+      ],
+      "black-pepper": "to taste",
+      "salt": "to taste",
+      "mustard-seeds": [
+        0.5,
+        "tsp"
+      ]
+    },
+    "steps": [
+      "Chop the potato, carrot and beans into small pieces. Simmer them in water until just tender, then drain.",
+      "Heat oil in a saucepan. Add mustard seeds, cloves, cinnamon and cardamom, followed by sliced onion, ginger, chilli and curry leaves. Cook until the onion softens.",
+      "Add the cooked vegetables and peas. Stir in half the coconut milk and the measured water; simmer for 5–7 minutes.",
+      "Mix flour with a spoonful of cool water, stir it into the stew and simmer until slightly thickened. Add remaining coconut milk, salt and pepper; heat gently without a hard boil."
+    ],
+    "description": "A mild vegetable stew with coconut milk.",
+    "batchFriendly": true,
+    "source": {
+      "title": "Keralan Vegetable Stew",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4615200",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AKeralan%20Vegetable%20Stew&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "water": 0.5,
+    "prepNote": "Includes time to cook raw vegetables. Canned coconut milk replaces extracting fresh coconut milk; onion replaces shallot. Vinegar omitted.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=Od90M-FTVjs",
+        "channel": "Authentic Kerala",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Authentic Kerala Style Vegetable Stew Recipe in Hindi |  Veg Kurma | South Indian Recipes 🔥"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=sosT0JyAhiw",
+        "channel": "Hebbars Kitchen",
+        "format": "on-screen",
+        "checkedAt": "2026-09-08",
+        "title": "vegetable stew recipe | veg stew recipe | kerala style vegetable stew"
+      }
+    ]
+  },
+  {
+    "id": "egg-rice",
+    "name": "Indian Egg Rice",
+    "cuisine": "Indian",
+    "mealType": "lunch / dinner",
+    "time": 35,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "rice",
+      "onion",
+      "green-chilli",
+      "ginger",
+      "garlic",
+      "garam-masala",
+      "salt",
+      "eggs",
+      "neutral-oil"
+    ],
+    "amounts": {
+      "rice": [
+        1.0,
+        "cup"
+      ],
+      "onion": [
+        1.0,
+        "small"
+      ],
+      "green-chilli": [
+        1.0,
+        "chilli"
+      ],
+      "ginger": [
+        0.5,
+        "tsp minced"
+      ],
+      "garlic": [
+        0.5,
+        "tsp minced"
+      ],
+      "garam-masala": [
+        0.25,
+        "tsp"
+      ],
+      "salt": "to taste",
+      "eggs": [
+        2.0,
+        "eggs"
+      ],
+      "neutral-oil": [
+        1.0,
+        "tbsp"
+      ]
+    },
+    "steps": [
+      "Rinse the rice and cook in water according to the packet; drain if needed and spread out briefly to let excess steam escape.",
+      "Heat oil in a wide pan. Cook the chopped onion and chilli until soft, then stir in ginger and garlic.",
+      "Push the onion to one side. Add beaten eggs and stir until fully set.",
+      "Add rice, garam masala and salt. Toss gently over medium heat until steaming hot throughout."
+    ],
+    "description": "Spiced rice and scrambled egg, cooked from uncooked rice.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Egg Rice",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4513017",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AEgg%20Rice&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "Time includes cooking rice. Oil is explicitly included; garam masala replaces the source’s whole-spice blend.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=gPK973XXJTI",
+        "channel": "bharatzkitchen HINDI",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "जब ऐसे बनाओगे चावल और अंडा इतना टेस्टी, तो सच में कही नहीं होगी आपकी बेज़्ज़ती |Unique Egg RICE Recipe"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=at2aQtc7vDY",
+        "channel": "Ambika Shetty's Kitchen",
+        "format": "on-screen",
+        "checkedAt": "2026-09-08",
+        "title": "Egg Masala Rice Recipe | Indian style Egg Fried Rice"
+      }
+    ]
+  },
+  {
+    "id": "teriyaki-chicken",
+    "name": "Quick Teriyaki Chicken",
+    "cuisine": "Japanese",
+    "mealType": "lunch / dinner",
+    "time": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "chicken",
+      "soy-sauce",
+      "mirin",
+      "sugar",
+      "ginger",
+      "garlic",
+      "neutral-oil"
+    ],
+    "amounts": {
+      "chicken": [
+        300.0,
+        "g boneless"
+      ],
+      "soy-sauce": [
+        2.0,
+        "tbsp"
+      ],
+      "mirin": [
+        2.0,
+        "tbsp"
+      ],
+      "sugar": [
+        1.0,
+        "tbsp"
+      ],
+      "ginger": [
+        1.0,
+        "tsp minced"
+      ],
+      "garlic": [
+        1.0,
+        "tsp minced"
+      ],
+      "neutral-oil": [
+        1.0,
+        "tsp"
+      ]
+    },
+    "steps": [
+      "Mix soy sauce, mirin, sugar, ginger and garlic in a small bowl. Cut boneless chicken into bite-size pieces.",
+      "Heat oil in a wide pan over medium heat. Add chicken and cook, turning, until lightly browned on all sides.",
+      "Pour in the sauce and simmer, stirring frequently, until the chicken reaches 74°C in the thickest pieces and the sauce lightly coats it. Add a splash of water if the sauce thickens before the chicken is cooked.",
+      "Serve the chicken with its glaze."
+    ],
+    "description": "A quick pan dinner built around a homemade teriyaki glaze.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Teriyaki Sauce",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4536305",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ATeriyaki%20Sauce&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "Adapted from the cookbook’s teriyaki sauce: sugar replaces brown sugar and the sauce is used as a cooked glaze instead of an overnight marinade. Rice is not included.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=PO85N1luzXg",
+        "channel": "Ruby Ka Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Chicken Teriyaki with Sticky Rice Recipe in Urdu Hindi - RKK"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=6NkG4Qp0lyc",
+        "channel": "Just One Cookbook",
+        "format": "on-screen",
+        "checkedAt": "2026-09-08",
+        "title": "Discover the Traditional Japanese Chicken Teriyaki Recipe 照り焼きチキンレシピ"
+      }
+    ]
+  },
+  {
+    "id": "tofu-pad-thai",
+    "name": "Tofu Pad Thai",
+    "cuisine": "Thai",
+    "mealType": "lunch / dinner",
+    "time": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "rice-noodles",
+      "fish-sauce",
+      "vinegar",
+      "tamarind-paste",
+      "sugar",
+      "neutral-oil",
+      "garlic",
+      "chilli-powder",
+      "tofu",
+      "carrot",
+      "eggs",
+      "spring-onion",
+      "bean-sprouts",
+      "peanuts"
+    ],
+    "amounts": {
+      "rice-noodles": [
+        150.0,
+        "g"
+      ],
+      "fish-sauce": [
+        1.5,
+        "tbsp"
+      ],
+      "vinegar": [
+        1.0,
+        "tbsp"
+      ],
+      "tamarind-paste": [
+        1.0,
+        "tbsp"
+      ],
+      "sugar": [
+        1.5,
+        "tbsp"
+      ],
+      "neutral-oil": [
+        1.5,
+        "tbsp"
+      ],
+      "garlic": [
+        2.0,
+        "cloves"
+      ],
+      "chilli-powder": [
+        0.25,
+        "tsp"
+      ],
+      "tofu": [
+        200.0,
+        "g"
+      ],
+      "carrot": [
+        1.0,
+        "small"
+      ],
+      "eggs": [
+        2.0,
+        "eggs"
+      ],
+      "spring-onion": [
+        2.0,
+        "stalks"
+      ],
+      "bean-sprouts": [
+        1.0,
+        "cup"
+      ],
+      "peanuts": [
+        2.0,
+        "tbsp"
+      ]
+    },
+    "steps": [
+      "Soften the rice noodles according to their packet, then drain. Mix fish sauce, vinegar, tamarind, sugar and the measured water for the sauce.",
+      "Cut tofu into cubes, shred the carrot and chop garlic and spring onion. Heat oil in a wide pan and brown the tofu for 6–8 minutes.",
+      "Add garlic, chilli powder and carrot; stir-fry until the carrot softens. Push everything aside and scramble the eggs in the pan until fully set.",
+      "Add noodles and sauce. Toss until the noodles absorb the sauce and are tender, adding water if needed. Add bean sprouts and spring onion and cook for another 2 minutes. Finish with crushed peanuts."
+    ],
+    "description": "Stir-fried rice noodles with tofu, egg and a tangy sauce.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Pad Thai",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4581549",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3APad%20Thai&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "water": 0.25,
+    "prepNote": "Contains fish sauce and eggs. Tamarind paste is diluted with the water listed above; check your noodle packet for soaking time.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=WaHCCIE8bMg",
+        "channel": "Lazzat Hi Lazzat",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "How to Make Pad Thai | Pad Thai Recipe | Urdu & Hindi | Lazzat Hi Lazzat"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=F86GfZIph8o",
+        "channel": "Pailin's Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "How to Make Authentic Pad Thai in 5 Mins! + Pad Thai Sauce Recipe"
+      }
+    ]
+  },
+  {
+    "id": "vegetable-bibimbap",
+    "name": "Vegetable Bibimbap",
+    "cuisine": "Korean",
+    "mealType": "lunch / dinner",
+    "time": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "cooked-rice",
+      "carrot",
+      "spinach",
+      "bean-sprouts",
+      "cucumber",
+      "eggs",
+      "sesame-oil",
+      "sesame-seeds",
+      "garlic",
+      "neutral-oil",
+      "gochujang",
+      "salt"
+    ],
+    "amounts": {
+      "cooked-rice": [
+        2.0,
+        "cups"
+      ],
+      "carrot": [
+        1.0,
+        "medium"
+      ],
+      "spinach": [
+        150.0,
+        "g"
+      ],
+      "bean-sprouts": [
+        1.0,
+        "cup"
+      ],
+      "cucumber": [
+        0.5,
+        "cucumber"
+      ],
+      "eggs": [
+        2.0,
+        "eggs"
+      ],
+      "sesame-oil": [
+        1.0,
+        "tbsp"
+      ],
+      "sesame-seeds": [
+        2.0,
+        "tsp"
+      ],
+      "garlic": [
+        1.0,
+        "clove"
+      ],
+      "neutral-oil": [
+        2.0,
+        "tsp"
+      ],
+      "gochujang": [
+        1.0,
+        "tbsp"
+      ],
+      "salt": "to taste"
+    },
+    "steps": [
+      "Cut carrot and cucumber into thin strips. Mince the garlic and crush the sesame seeds.",
+      "Cook carrot, spinach and bean sprouts separately in a lightly oiled pan until tender, adding a splash of water as needed. Season each with a little salt, sesame oil, garlic and sesame seeds.",
+      "Fry the eggs in the remaining neutral oil until the whites and yolks are set. Reheat the cooked rice until steaming hot.",
+      "Divide rice between bowls. Arrange vegetables and eggs on top, and serve with gochujang to mix in at the table."
+    ],
+    "description": "A colourful Korean rice bowl with everyday vegetables.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Bibimbap",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4523906",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3ABibimbap&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated."
+    },
+    "prepNote": "A meat-free adaptation served in ordinary bowls. Uses already cooked rice; the source’s beef, kimchi side and hot-stone finishing are omitted.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=FHzeSbiiQ_4",
+        "channel": "Foreign Tadka",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "How to Make Veg Bibimbap Recipe With Indian Ingredients | Veg Bibimbap Recipe in Hindi"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=6QQ67F8y2b8",
+        "channel": "Maangchi",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "Bibimbap (비빔밥) & Dolsot-bibimbap (돌솥비빔밥)"
+      }
+    ]
+  },
+  {
+    "id": "quinoa-peanut-salad",
+    "name": "Quinoa Peanut Salad",
+    "cuisine": "Healthy-ish",
+    "mealType": "lunch",
+    "time": 35,
+    "difficulty": "Easy",
+    "servings": 2,
+    "needed": [
+      "quinoa",
+      "peanut-butter",
+      "soy-sauce",
+      "vinegar",
+      "sesame-oil",
+      "lime",
+      "hot-sauce",
+      "peanuts",
+      "cabbage",
+      "carrot",
+      "spring-onion",
+      "capsicum",
+      "coriander"
+    ],
+    "amounts": {
+      "quinoa": [
+        0.5,
+        "cup"
+      ],
+      "peanut-butter": [
+        2.0,
+        "tbsp"
+      ],
+      "soy-sauce": [
+        1.0,
+        "tbsp"
+      ],
+      "vinegar": [
+        1.5,
+        "tbsp"
+      ],
+      "sesame-oil": [
+        1.0,
+        "tsp"
+      ],
+      "lime": [
+        0.5,
+        "lime"
+      ],
+      "hot-sauce": [
+        0.5,
+        "tsp"
+      ],
+      "peanuts": [
+        2.0,
+        "tbsp"
+      ],
+      "cabbage": [
+        2.0,
+        "cups shredded"
+      ],
+      "carrot": [
+        0.5,
+        "cup shredded"
+      ],
+      "spring-onion": [
+        2.0,
+        "stalks"
+      ],
+      "capsicum": [
+        1.0,
+        "small"
+      ],
+      "coriander": [
+        0.25,
+        "cup chopped"
+      ]
+    },
+    "steps": [
+      "Rinse the quinoa and cook in the measured water according to its packet until tender. Spread on a plate and allow to cool while you prepare the vegetables.",
+      "Whisk peanut butter, soy sauce, vinegar, sesame oil, lime juice and hot sauce together. Add water a teaspoon at a time to make a pourable dressing.",
+      "Thinly slice the spring onion and capsicum. Toss them with cabbage, carrot, coriander and cooled quinoa.",
+      "Fold in the dressing and sprinkle chopped peanuts over the salad just before serving."
+    ],
+    "description": "Crunchy vegetables and quinoa in a simple peanut dressing.",
+    "batchFriendly": false,
+    "source": {
+      "title": "Quinoa Vegetable Slaw With Peanut Dressing (Gluten-Free)",
+      "url": "https://en.wikibooks.org/w/index.php?oldid=4630344",
+      "history": "https://en.wikibooks.org/w/index.php?title=Cookbook%3AQuinoa%20Vegetable%20Slaw%20With%20Peanut%20Dressing%20%28Gluten-Free%29&action=history",
+      "license": "CC BY-SA 4.0",
+      "retrieved": "2026-09-08",
+      "changes": "Portions standardised; method rewritten for home cooking. Preparation shortcuts and estimated total times are stated. Original recipe by Simmer + Sauce, published on Foodista under CC BY and incorporated into Wikibooks."
+    },
+    "water": 1,
+    "prepNote": "Time includes cooking and briefly cooling quinoa. Adapted from Simmer + Sauce via Foodista and Wikibooks; soy sauce replaces tamari, so this version is not labelled gluten-free.",
+    "videos": [
+      {
+        "language": "hi",
+        "url": "https://www.youtube.com/watch?v=oyEc2ADuA7k",
+        "channel": "Naviitas Kitchen",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "How To Make Quinoa Salad Indian Style In Hindi | किनोवा सलाद | Quinoa Salad Vegetarian Indian Style"
+      },
+      {
+        "language": "en",
+        "url": "https://www.youtube.com/watch?v=AbNlD19IVQU",
+        "channel": "essy cooks",
+        "format": "spoken",
+        "checkedAt": "2026-09-08",
+        "title": "How to Make Quinoa Salad with Peanut Dressing"
+      }
+    ]
+  }
+]

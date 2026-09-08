@@ -1,0 +1,506 @@
+{
+  "kanda-poha": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=LAcFkm5Soq8",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Mumbai Style Kanda Poha | कांदे पोहे | Chef Ranveer Brar"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=Uov4arv3eYo",
+      "channel": "Rajshri Food",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Poha | Cooked Flattened Rice | Quick Indian Breakfast Recipe by Ruchi Bharani"
+    }
+  ],
+  "vegetable-upma": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=zpMqTRadZXM",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Easy Upma recipe for breakfast | उपमा बनाने का आसान तरीका | Chef Ranveer Brar"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=LuhrHOxwiq8",
+      "channel": "Rajshri Food",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Upma Recipe - How To Make Rava Upma - Healthy Breakfast Recipe - Ruchi Bharani"
+    }
+  ],
+  "simple-khichdi": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=5RZxRtqZ184",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "4 Types Masala Khichdi | 4 तरह की मसाला खिचड़ी | Khichdis of India paakshala | Chef Ranveer Brar"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=lYuKcGfBkcc",
+      "channel": "Manjula's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Moong Dal Khichdi | A Simple Quick & Easy Tutorial By Manjula!"
+    }
+  ],
+  "masala-omelette": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=sAa-CEl5Z-k",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Masala Omelette with Fry Potato | मसाला आमलेट की रेसिपी | Omelette Tips | Chef Ranveer Brar"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=uhjH7tlM1Jw",
+      "channel": "Sanjeev Kapoor Khazana ",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Indian Masala Omelette | Sanjeev Kapoor Khazana"
+    }
+  ],
+  "aloo-gobi": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=PhgyyJE90w8",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "आसान आलू गोभी की सब्जी | home style Aloo Gobhi | घर की रेसिपी | Chef Ranveer Brar"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=IQ8sDvASVGE",
+      "channel": "Manjula's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Aloo Gobi | Potatoes & Cauliflower | Recipe by Manjula, Indian Vegetarian Food"
+    }
+  ],
+  "cucumber-raita": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=Or9HG74OTqU",
+      "channel": "Recipe Mantra - Hindi",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "खीरे का रायता 2 प्रकार से | Kheere ka rayta | Cucumber Raita recipe in hindi- Kheere Ka Raita"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=QyS8_odSfn0",
+      "channel": "Manjula's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Kheera Raita | Cucumber Raita Yogurt Dip | Raita Kheera Recipe by Manjula"
+    }
+  ],
+  "chapati": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=EEYoDRwAyeU",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "The Dough MasterClass | आटा कैसे गूँधते हैं | Mathri Recipe | रोटी पराठे समोसे का आटा | Chef Ranveer"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=jD4o_Lmy6bU",
+      "channel": "Manjula's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "3.7M Views! 🍽️ Perfect Chapati Recipe | Learn to make Roti at Home with Manjula"
+    }
+  ],
+  "lemon-rice": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=ovZPQjM_0r0",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Lemon Rice easy recipe | साउथ इंडियन लेमन राइस/निम्बू चावल | Chithranna | Chef Ranveer Brar"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=yTIRAYfjbo0",
+      "channel": "Manjula's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Lemon Rice | Lemon Rice | Easy Lemon Rice Recipe by Manjula"
+    }
+  ],
+  "moong-dal": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=p3GyNrTpMHs",
+      "channel": "Foods and Flavors",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Moong dal Recipe in different style - Yellow Moong dal Tadka Recipe - Dhaba dal tadka recipe"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=DYRdHTVVEuU",
+      "channel": "Food Fusion",
+      "format": "on-screen",
+      "checkedAt": "2026-09-08",
+      "title": "Easy Tadke wali Moong Dal Recipe by Food Fusion (How to Make authentic Moong Daal recipe with tarka)"
+    }
+  ],
+  "matar-paneer": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=tYt9s6-5MLc",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "No-Fail! Matar Paneer recipe | माँ की स्पेशल मटर पनीर रेसिपी | Matar Paneer gravy | Chef RanveerBrar"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=sdGtxnEh0zQ",
+      "channel": "Manjula's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Mattar Paneer | Mutter Paneer Recipe by Manjula's Kitchen Recipes"
+    }
+  ],
+  "chickpea-curry": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=M15TScMRAKw",
+      "channel": "Kabita's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Traditional Chole recipe (chickpea curry)-Chola Masala-Chole Recipe in Hindi"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=XiDMmrRcvOQ",
+      "channel": "Manjula's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Chole Chana Masala Recipe | How to Make Chole Chana Masala by Manjula"
+    }
+  ],
+  "aloo-masala": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=soAjw44q8tY",
+      "channel": "Shaluzlovebook Kitchen. ",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "बाज़ार वाले ऐसे बनाते है मसाला डोसा आलू-Dosa Aloo Recipe-Potato Filling for Masala Dosa-Masala Dos"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=XonmMhTkA10",
+      "channel": "Sanjeev Kapoor Khazana ",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Potato filling for Masala Dosa | Sanjeev Kapoor Khazana"
+    }
+  ],
+  "french-toast": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=US7mX4Nk0gs",
+      "channel": "Kabita's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "5 मिनट में बनाए ब्रेड का नास्ता | French Toast Recipe | Breakfast Recipe | Kabitaskitchen"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=1zyJT-PiqUA",
+      "channel": "Food Wishes",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "French Toast - Do you really know how to make it?"
+    }
+  ],
+  "fluffy-pancakes": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=pyp59C1Cif0",
+      "channel": "Aarti Madan",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Pancake Recipe | How to Make Pancakes at Home (in Hindi)"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=qE5ycgqswGY",
+      "channel": "Preppy Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "The BEST Pancake Recipe"
+    }
+  ],
+  "scrambled-eggs": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=H9_K4FxRNPo",
+      "channel": "Hinz Cooking (Easy Dinner Recipes)",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Indian Scrambled Eggs (Soft and Creamy) - Hinz Cooking"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=XlhUJMg1pp0",
+      "channel": "Kanak's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Perfect Scrambled Eggs Indian Style | How to make Basic Scrambled Eggs | Kanak's Kitchen"
+    }
+  ],
+  "grilled-cheese": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=lbrk1NGD5T8",
+      "channel": "Anyone can cook with me",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Grilled Cheese Sandwich Recipe | Easy And Quick Breakfast Sandwich Recipe In Hindi"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=BlTCkNkfmRY",
+      "channel": "Food Wishes",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "How to Make an Inside-Out Grilled Cheese Sandwich | Food Wishes"
+    }
+  ],
+  "quick-hummus": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=aSOG7V62CbE",
+      "channel": "Zee Zest",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Classic Hummus Recipe | Make Hummus at Home | Chef Ranveer Brar | Easy & Simple Recipe"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=d4soRs0ZBgE",
+      "channel": "Inspired Taste",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Easy Hummus Recipe (Better than Store-Bought)"
+    }
+  ],
+  "guacamole": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=3fK7WP_Za0g",
+      "channel": "Anubha's Kitchen Diaries",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Homemade Guacamole |  आवाकाड़ो चटनी  | Quick, Easy & Healthy Recipe in Hindi with English subtitles"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=cOn9BCoXkk0",
+      "channel": "Inspired Taste",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Easy Guacamole Recipe"
+    }
+  ],
+  "aglio-e-olio": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=9duWxcKFJgE",
+      "channel": "MOHIT RECIPES ",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Spaghetti Aglio E Olio Recipe In Hindi | लहसुन और जैतून स्पेगेटी /5 Ingredients Pasta |By Chef Mohit"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=a0EyzJsf1eo",
+      "channel": "NOT ANOTHER COOKING SHOW",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "how to make SPAGHETTI AGLIO E OLIO like an ITALIAN"
+    }
+  ],
+  "vegetable-fried-rice": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=P0ullgo0Lnw",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "वेज फ्राइड राइस बाजार जैसे घर पे | Street style Veg Fried Rice | easy Fried Rice | Chef Ranveer Brar"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=U1W-ltjmpco",
+      "channel": "Hebbars Kitchen",
+      "format": "on-screen",
+      "checkedAt": "2026-09-08",
+      "title": "Street Style Veg Fried Rice with Simple Secret Sauces & Rice Cooking Tips | Vegetable Fried Rice"
+    }
+  ],
+  "spinach-quesadilla": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=FkJWgQWnevY",
+      "channel": "Manisha Bharani's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Mexican Cheese Quesadilla Recipe In Hindi Quick & Easy Evening Starter Snacks"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=pmzuSRmhHoA",
+      "channel": "Pinch Of Flavours",
+      "format": "on-screen",
+      "checkedAt": "2026-09-08",
+      "title": "Spinach Quesadilla - Vegan Spinach Quesadillas"
+    }
+  ],
+  "kerala-vegetable-stew": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=Od90M-FTVjs",
+      "channel": "Authentic Kerala",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Authentic Kerala Style Vegetable Stew Recipe in Hindi |  Veg Kurma | South Indian Recipes 🔥"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=sosT0JyAhiw",
+      "channel": "Hebbars Kitchen",
+      "format": "on-screen",
+      "checkedAt": "2026-09-08",
+      "title": "vegetable stew recipe | veg stew recipe | kerala style vegetable stew"
+    }
+  ],
+  "egg-rice": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=gPK973XXJTI",
+      "channel": "bharatzkitchen HINDI",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "जब ऐसे बनाओगे चावल और अंडा इतना टेस्टी, तो सच में कही नहीं होगी आपकी बेज़्ज़ती |Unique Egg RICE Recipe"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=at2aQtc7vDY",
+      "channel": "Ambika Shetty's Kitchen",
+      "format": "on-screen",
+      "checkedAt": "2026-09-08",
+      "title": "Egg Masala Rice Recipe | Indian style Egg Fried Rice"
+    }
+  ],
+  "tomato-herb-soup": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=9ht8XY8D6oY",
+      "channel": "Chef Ranveer Brar",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Tomato Soup | होटल जैसा टमाटर सूप | Basil Pesto & Garlic Bread bonus recipe | Chef Ranveer Brar"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=4fPYsw8XVm8",
+      "channel": "Food Wishes",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Fresh Tomato Soup with Crispy Cheese Toast - Food Wishes"
+    }
+  ],
+  "teriyaki-chicken": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=PO85N1luzXg",
+      "channel": "Ruby Ka Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Chicken Teriyaki with Sticky Rice Recipe in Urdu Hindi - RKK"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=6NkG4Qp0lyc",
+      "channel": "Just One Cookbook",
+      "format": "on-screen",
+      "checkedAt": "2026-09-08",
+      "title": "Discover the Traditional Japanese Chicken Teriyaki Recipe 照り焼きチキンレシピ"
+    }
+  ],
+  "tofu-pad-thai": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=WaHCCIE8bMg",
+      "channel": "Lazzat Hi Lazzat",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "How to Make Pad Thai | Pad Thai Recipe | Urdu & Hindi | Lazzat Hi Lazzat"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=F86GfZIph8o",
+      "channel": "Pailin's Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "How to Make Authentic Pad Thai in 5 Mins! + Pad Thai Sauce Recipe"
+    }
+  ],
+  "vegetable-bibimbap": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=FHzeSbiiQ_4",
+      "channel": "Foreign Tadka",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "How to Make Veg Bibimbap Recipe With Indian Ingredients | Veg Bibimbap Recipe in Hindi"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=6QQ67F8y2b8",
+      "channel": "Maangchi",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "Bibimbap (비빔밥) & Dolsot-bibimbap (돌솥비빔밥)"
+    }
+  ],
+  "quinoa-peanut-salad": [
+    {
+      "language": "hi",
+      "url": "https://www.youtube.com/watch?v=oyEc2ADuA7k",
+      "channel": "Naviitas Kitchen",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "How To Make Quinoa Salad Indian Style In Hindi | किनोवा सलाद | Quinoa Salad Vegetarian Indian Style"
+    },
+    {
+      "language": "en",
+      "url": "https://www.youtube.com/watch?v=AbNlD19IVQU",
+      "channel": "essy cooks",
+      "format": "spoken",
+      "checkedAt": "2026-09-08",
+      "title": "How to Make Quinoa Salad with Peanut Dressing"
+    }
+  ]
+}
